@@ -6,9 +6,7 @@ wykladnik = 7;
 argument = 5;
 
 wynik = log(argument)/log(podst)
- wynik  = 
 
-  -3.9693623
 # zad2.b
 A = [7,-2,3;-2,5,8;6,-1,0];
 
@@ -35,9 +33,9 @@ title('Wykres 2 funkcji');
 plot(x, y1, 'r', x, y2, 'g');
 
 # zad3
--lata = [2015,2017,2019];
+lata = [2015,2017,2019];
 złoto = [4,2,3];
- srebro = [2,0,1];
+srebro = [2,0,1];
 
 braz = [3,4,0]
 

@@ -1,1 +1,2 @@
-# programy_uzytkowe
+s = "Hello World";
+disp(s)
